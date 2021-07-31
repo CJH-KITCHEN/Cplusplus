@@ -1,0 +1,7 @@
+﻿  test.cpp
+C:\Users\준혁\source\repos\Lec03Ex02\Lec03Ex02\test.cpp(20,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\준혁\source\repos\Lec03Ex02\Lec03Ex02\test.cpp(21,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\준혁\source\repos\Lec03Ex02\Lec03Ex02\test.cpp(43,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\준혁\source\repos\Lec03Ex02\Lec03Ex02\test.cpp(44,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\준혁\source\repos\Lec03Ex02\Lec03Ex02\test.cpp(52,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Lec03Ex02.vcxproj -> C:\Users\준혁\source\repos\Lec03Ex02\Debug\Lec03Ex02.exe

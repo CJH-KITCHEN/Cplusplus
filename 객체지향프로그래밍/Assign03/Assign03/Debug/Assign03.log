@@ -1,0 +1,7 @@
+﻿  TicketManager.cpp
+C:\Users\준혁\source\repos\Assign03\Assign03\TicketManager.cpp(35,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\준혁\source\repos\Assign03\Assign03\TicketManager.cpp(49,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\준혁\source\repos\Assign03\Assign03\TicketManager.cpp(69,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  main.cpp
+  코드를 생성하고 있습니다...
+  Assign03.vcxproj -> C:\Users\준혁\source\repos\Assign03\Debug\Assign03.exe

@@ -1,0 +1,4 @@
+﻿  testmain.cpp
+C:\Users\준혁\source\repos\week14API\week14API\testmain.cpp(13,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\준혁\source\repos\week14API\week14API\testmain.cpp(13,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  week14API.vcxproj -> C:\Users\준혁\source\repos\week14API\Debug\week14API.exe
