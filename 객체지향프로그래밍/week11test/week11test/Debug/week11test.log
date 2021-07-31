@@ -1,4 +1,0 @@
-﻿  testmain.cpp
-C:\Users\준혁\source\repos\week11test\week11test\ArrayDataDef.h(106,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\준혁\source\repos\week11test\week11test\testmain.cpp(84): message : 컴파일되는 함수 템플릿 인스턴스화 'std::ostream &operator <<<CMyPoint>(std::ostream &,const ArrayData<CMyPoint> &)'에 대한 참조를 확인하세요.
-  week11test.vcxproj -> C:\Users\준혁\source\repos\week11test\Debug\week11test.exe

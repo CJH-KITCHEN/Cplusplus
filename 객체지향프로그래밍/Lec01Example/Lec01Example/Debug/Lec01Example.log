@@ -1,4 +1,0 @@
-﻿  stringstreamex.cpp
-stringstreamex.obj : error LNK2005: "void __cdecl CJH::printName(void)" (?printName@CJH@@YAXXZ)이(가) exam1.obj에 이미 정의되어 있습니다.
-stringstreamex.obj : error LNK2005: _main이(가) exam1.obj에 이미 정의되어 있습니다.
-C:\Users\준혁\source\repos\Lec01Example\Debug\Lec01Example.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
