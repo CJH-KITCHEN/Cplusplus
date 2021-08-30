@@ -19,15 +19,9 @@ int main() {
 		cin >> CoinArr[i];
 	}
 	
-	int temp;
-	for (int i = N-1; i > 0; i--) {
-		temp = K / CoinArr[i];
-		count += temp;
+	for (int i = N-1; i >= 0; i--) {
+		count += K / CoinArr[i];
 		K = K % CoinArr[i];
-	}
-
-	if (K > 0) {
-		count += K;
 	}
 	
 	cout << count;
